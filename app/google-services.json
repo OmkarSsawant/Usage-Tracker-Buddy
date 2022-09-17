@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294721148007",
+    "project_id": "usage-tracker-buddy",
+    "storage_bucket": "usage-tracker-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294721148007:android:8d91042e4dec403ff1f0c2",
+        "android_client_info": {
+          "package_name": "com.visiondev.usagetrackerbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294721148007-0opu0ohpptpusd0deodc64pnav593ec0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBl5mEsWUiYmIIBJmP_ojBfhTFj12UMWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294721148007-0opu0ohpptpusd0deodc64pnav593ec0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
